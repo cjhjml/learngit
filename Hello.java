@@ -14,3 +14,4 @@ public class AdapterCDATA extends XmlAdapter<String, String> {
     return "<![CDATA[" + v + "]]>";
   }
 }
+HEAD
